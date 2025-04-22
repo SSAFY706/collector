@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: collector
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/apm
+server:
+  port: 8126
